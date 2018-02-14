@@ -1,0 +1,18 @@
+{
+    "name": "tm16xx",
+    "version": "0.0.0",
+    "description": "Titan Microelectronics TM16XX driver",
+    "license": "MIT",
+    "dependencies": {
+        "core": "*",
+        "radio": "*"
+    },
+    "files": [
+        "README.md",
+        "main.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "public": false
+}
